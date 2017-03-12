@@ -1,6 +1,6 @@
 #Reading List
 
-A list of books that I have read and plan to read.
+A list of development books that I have read and plan to read.
 
 ###Read
 
