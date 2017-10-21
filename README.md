@@ -1,8 +1,8 @@
-#Reading List
+# Reading List
 
 A list of development books that I have read and plan to read.
 
-###Read
+### Read
 
 Clean Code *by Robert C. Martin*
 
@@ -10,12 +10,13 @@ The Mythical Man-Month *by Frederick R. Brooks, Jr*
 
 The Agile Samurai *by Jonathan Rasmusson*
 
-
-###Reading
-
 The Art of Agile Development *by James Shore and Shane Warden*
 
-###To Read
+### Reading
+
+
+
+### To Read
 
 Extreme Programming Explained *by Kent Beck*
 
