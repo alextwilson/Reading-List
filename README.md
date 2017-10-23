@@ -14,7 +14,7 @@ The Art of Agile Development *by James Shore and Shane Warden*
 
 ### Reading
 
-
+Git Pocket Guide *by Richard E. Silverman*
 
 ### To Read
 
