@@ -12,9 +12,11 @@ The Agile Samurai *by Jonathan Rasmusson*
 
 The Art of Agile Development *by James Shore and Shane Warden*
 
+Git Pocket Guide *by Richard E. Silverman*
+
 ### Reading
 
-Git Pocket Guide *by Richard E. Silverman*
+
 
 ### To Read
 
