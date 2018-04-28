@@ -16,7 +16,7 @@ Git Pocket Guide *by Richard E. Silverman*
 
 ### Reading
 
-
+97 Things Every Programmer Should Know *edited by Kevlin Henney*
 
 ### To Read
 
