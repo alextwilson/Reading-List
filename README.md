@@ -14,9 +14,9 @@ The Art of Agile Development *by James Shore and Shane Warden*
 
 Git Pocket Guide *by Richard E. Silverman*
 
-### Reading
-
 Continuous Delivery with Windows and .NET *by Matthew Skelton and Chris O'Dell*
+
+### Reading
 
 97 Things Every Programmer Should Know *edited by Kevlin Henney*
 
