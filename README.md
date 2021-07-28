@@ -20,9 +20,11 @@ Continuous Delivery with Windows and .NET *by Matthew Skelton and Chris O'Dell*
 
 ### Reading
 
-Release It! *by Michael T. Nygard*
+Structure and Interpretation of Computer Programs *by Abelson and Sussman*
 
 ### To Read
+
+Release It! *by Michael T. Nygard*
 
 Extreme Programming Explained *by Kent Beck*
 
